@@ -10,7 +10,7 @@
         <div class="container">
             <h2 class="pull-left">Erro 404</h2>
             <ol class="breadcrumb pull-right">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.aspx">Home</a></li>
                 <li class="active">Erro 404</li>
             </ol>
         </div>
@@ -33,7 +33,7 @@
                     <p>Desculpe!</p>
                     <p>A página que você procura não foi encontrada.</p>
                     <br />
-                    <a class="read-more" href="index.html">Volte para a Homepage <span class="fa fa-chevron-circle-right"></span></a>
+                    <a class="read-more" href="index.aspx">Volte para a Homepage <span class="fa fa-chevron-circle-right"></span></a>
                 </div>
             </div>
         </div>
@@ -49,7 +49,7 @@
                         <h2>Procurando pelas melhores soluções em consultoria e engenharia?</h2>
                     </div>
                     <div class="col-md-3">
-                        <a class="btn btn-default en-btn light" href="contact.html" role="button">Faça um orçamento agora</a>
+                        <a class="btn btn-default en-btn light" href="contato.aspx" role="button">Faça um orçamento agora</a>
                     </div>
                 </div>
             </div>

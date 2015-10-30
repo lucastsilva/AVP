@@ -11,7 +11,7 @@
         <div class="container">
             <h2 class="pull-left">Perícias</h2>
             <ol class="breadcrumb pull-right">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.aspx">Home</a></li>
                 <li class="active">Perícias</li>
             </ol>
         </div>
@@ -70,7 +70,7 @@
                         <h2>Deseja realizar uma perícia em seu projeto?</h2>
                     </div>
                     <div class="col-md-3">
-                        <a class="btn btn-default en-btn light" href="contact.html" role="button">Faça um orçamento agora</a>
+                        <a class="btn btn-default en-btn light" href="contato.aspx" role="button">Faça um orçamento agora</a>
                     </div>
                 </div>
             </div>

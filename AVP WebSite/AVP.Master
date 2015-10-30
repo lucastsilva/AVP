@@ -71,19 +71,17 @@
                         <ul class="top-links list-unstyled text-right">
                             <li class="top-contact">
                                 <ol class="list-inline">
-                                    <li><i class="fa fa-phone"></i>(11) 5016 - 4180</li>
-                                    <li><i class="fa fa-phone"></i>(11) 3892 - 7129</li>
-                                    <li><i class="fa fa-envelope-o"></i>sac@avp.eng.br</li>
+                                    <li><i class="fa fa-phone"></i> (11) 5016 - 4180</li>
+                                    <li><i class="fa fa-phone"></i> (11) 3892 - 7129</li>
+                                    <li><i class="fa fa-envelope-o"></i> sac@avp.eng.br</li>
                                 </ol>
                             </li>
                             <li>
                                 <ol class="social-icons list-inline">
                                     <li><a class="facebook" href="#"><i class="fa fa-facebook-square"></i></a></li>
                                     <li><a class="twitter" href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a class="rss" href="#"><i class="fa fa-rss"></i></a></li>
                                     <li><a class="google" href="#"><i class="fa fa-google-plus"></i></a></li>
                                     <li><a class="linkedin" href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a class="pinterest" href="#"><i class="fa fa-pinterest"></i></a></li>
                                 </ol>
                             </li>
                         </ul>

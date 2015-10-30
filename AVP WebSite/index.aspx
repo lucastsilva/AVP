@@ -24,7 +24,7 @@
                         <br />
                         AVP </h1>
                     <p class="lead">Innov Company is a topnotch Engineering Company that serves all Engineering Field Services.</p>
-                    <a class="btn btn-default en-btn" href="about.html" role="button">Learn More</a>
+                    <a class="btn btn-default en-btn" href="sobre.aspx" role="button">Learn More</a>
                 </div>
             </div>
             <div class="item">
@@ -104,42 +104,42 @@
                 <div class="col-sm-4 col-md-4">
                     <div class="service">
                         <!-- Service #1 -->
-                        <a href="avaliacoes.html">
+                        <a href="avaliacoes.aspx">
                             <img src="img/services/01.jpg" alt="" class="img-responsive" />
                         </a>
-                        <a href="avaliacoes.html">
+                        <a href="avaliacoes.aspx">
                             <h4>Avaliações</h4>
                         </a>
                         <p>Fusce laoreet ultricies sapien sed efficitur orci venenatis lotem ne ut Maecenas tortor magna quea velit inringilla sed. Praesent eget bibendum purus, quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc, nec bibendum erat volutpat ultricies</p>
-                        <a class="read-more" href="avaliacoes.html">Leia Mais <span class="fa fa-chevron-circle-right"></span></a>
+                        <a class="read-more" href="avaliacoes.aspx">Leia Mais <span class="fa fa-chevron-circle-right"></span></a>
                     </div>
                 </div>
 
                 <div class="col-sm-4 col-md-4">
                     <div class="service">
                         <!-- Service #2 -->
-                        <a href="pericias.html">
+                        <a href="pericias.aspx">
                             <img src="img/services/02.jpg" alt="" class="img-responsive" />
                         </a>
-                        <a href="pericias.html">
+                        <a href="pericias.aspx">
                             <h4>Perícias</h4>
                         </a>
                         <p>Nulla interdum dapibus erat nec elementum. Fusce aliquet tempor mi, vitae sollicitudin arcu convallis id. Vivamus aliquet rutrum dui a varius. Mauris ornare tortor in eleifend blanditullam ut ligula et neque.</p>
-                        <a class="read-more" href="pericias.html">Leia Mais <span class="fa fa-chevron-circle-right"></span></a>
+                        <a class="read-more" href="pericias.aspx">Leia Mais <span class="fa fa-chevron-circle-right"></span></a>
                     </div>
                 </div>
 
                 <div class="col-sm-4 col-md-4">
                     <div class="service">
                         <!-- Service #3 -->
-                        <a href="energiaeletrica.html">
+                        <a href="energiaeletrica.aspx">
                             <img src="img/services/03.jpg" alt="" class="img-responsive" />
                         </a>
-                        <a href="energiaeletrica.html">
+                        <a href="energiaeletrica.aspx">
                             <h4>Energia Elétrica</h4>
                         </a>
                         <p>Vivamus aliquet rutrum dui a varius. Mauris ornare tortor in eleifend blanditullam ut ligula et neque. Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam egestda. Sedquis viverra enim. </p>
-                        <a class="read-more" href="energiaeletrica.html">Leia Mais <span class="fa fa-chevron-circle-right"></span></a>
+                        <a class="read-more" href="energiaeletrica.aspx">Leia Mais <span class="fa fa-chevron-circle-right"></span></a>
                     </div>
                 </div>
             </div>
@@ -157,7 +157,7 @@
                         <h2>Procurando pelas melhores soluções em consultoria e engenharia?</h2>
                     </div>
                     <div class="col-md-3">
-                        <a class="btn btn-default en-btn light" href="contact.html" role="button">Faça um orçamento agora</a>
+                        <a class="btn btn-default en-btn light" href="contato.aspx" role="button">Faça um orçamento agora</a>
                     </div>
                 </div>
             </div>

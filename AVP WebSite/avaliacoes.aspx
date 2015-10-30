@@ -10,7 +10,7 @@
         <div class="container">
             <h2 class="pull-left">Avaliações</h2>
             <ol class="breadcrumb pull-right">
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.aspx">Home</a></li>
                 <li class="active">Avaliações</li>
             </ol>
         </div>
@@ -71,7 +71,7 @@
                         <h2>Procura uma avaliação para o seu projeto?</h2>
                     </div>
                     <div class="col-md-3">
-                        <a class="btn btn-default en-btn light" href="contact.html" role="button">Faça um orçamento agora</a>
+                        <a class="btn btn-default en-btn light" href="contato.aspx" role="button">Faça um orçamento agora</a>
                     </div>
                 </div>
             </div>
