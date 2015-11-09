@@ -23,30 +23,30 @@
                     <h1>Bem vindo a
                         <br />
                         AVP </h1>
-                    <p class="lead">Innov Company is a topnotch Engineering Company that serves all Engineering Field Services.</p>
-                    <a class="btn btn-default en-btn" href="sobre.aspx" role="button">Learn More</a>
+                    <p class="lead">Consultoria e Engenharia</p>
+                    <a class="btn btn-default en-btn" href="sobre.aspx" role="button">Saiba Mais</a>
                 </div>
             </div>
             <div class="item">
                 <!-- Slider Item #2 -->
                 <img src="img/slider/03.jpg" alt="..." />
                 <div class="carousel-caption">
-                    <h1>Leading in Civil
+                    <h1>Conheça nossos
                         <br />
-                        and Architecture</h1>
-                    <p class="lead">Trusted by Thousands of Companies in Civil and Architecture in the whole world</p>
-                    <a class="btn btn-default en-btn" href="services.html" role="button">Our Services</a>
+                        serviços</h1>
+                    <p class="lead">Avaliações, perícias e energia elétrica</p>
+                    <a class="btn btn-default en-btn" href="#en-services" role="button">Serviços</a>
                 </div>
             </div>
             <div class="item">
                 <!-- Slider Item #3 -->
                 <img src="img/slider/01.jpg" alt="..." />
                 <div class="carousel-caption">
-                    <h1>Your One-Stop
+                    <h1>Entre em 
                         <br />
-                        Engineering Company</h1>
-                    <p class="lead">We offer you all Engineering Services at the highest quality we could offer.</p>
-                    <a class="btn btn-default en-btn" href="about.html" role="button">Get Started Now</a>
+                        contato</h1>
+                    <p class="lead">Faça seu orçamento</p>
+                    <a class="btn btn-default en-btn" href="contato.aspx" role="button">Contato</a>
                 </div>
             </div>
         </div>
@@ -74,7 +74,7 @@
                             <br />
                             AVP</h2>
                         <hr />
-                        <small>Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam egestda. Sedquis viverra enim.</small>
+                        <%--<small>Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam egestda. Sedquis viverra enim.</small>--%>
                     </div>
                 </div>
 
@@ -97,7 +97,7 @@
                 <!-- Centered Section Title -->
                 <h2>Nossos Serviços</h2>
                 <hr />
-                <p>Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam egestda. Sedquis viverra enim. </p>
+                <%--<p>Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam egestda. Sedquis viverra enim. </p>--%>
             </div>
 
             <div class="row">
@@ -178,7 +178,7 @@
                         <h2>Nossos<br />
                             Clientes</h2>
                         <hr />
-                        <small>Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam egestda. Sedquis viverra enim.</small>
+                        <%--<small>Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam egestda. Sedquis viverra enim.</small>--%>
                     </div>
                 </div>
 

@@ -3,13 +3,13 @@
 </asp:Content>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="conteudo" runat="server">
-     <!-- Page Header
+        <!-- Page Header
     ========================-->
     <div id="en-header">
         <div class="container">
             <h2 class="pull-left">Contact</h2>
             <ol class="breadcrumb pull-right">
-                <li><a href="index.aspx">Home</a></li>
+                <li><a href="index.html">Home</a></li>
                 <li class="active">Contato</li>
             </ol>
         </div>
@@ -31,7 +31,7 @@
                 </div>
                 <!-- Right Content 8 Cols -->
                 <div class="col-sm-8 col-md-8">
-                    <form id="contact-form" class="form" name="sentMessage" novalidate="novalidate"/>
+                    <form id="contactform" class="form" name="sentMessage" novalidate="novalidate" runat="server">
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="form-group">
@@ -48,10 +48,10 @@
                                 </div>
                             </div>
                         </div>
-                        <textarea class="form-control" rows="6" placeholder="Sua mensagem..." id="message" required="required" data-validation-required-message="Please enter a message."></textarea>
+                        <textarea class="form-control" rows="6" placeholder="Sua mensagem... *" id="message" required="required" data-validation-required-message="Please enter a message."></textarea>
                         <p class="help-block text-danger"></p>
                         <div id="success"></div>
-                        <button type="submit" class="btn btn-send en-btn dark">Enviar Mensagem</button> <!-- Send button -->
+                        <asp:Button ID="btEnviar" runat="server" Text="Enviar Mensagem" class="btn btn-send en-btn dark" OnClick="btEnviar_Click"/> <!-- Send button -->
                     </form>
                     <div class="clearfix"></div>
                     <div class="spacer"></div>

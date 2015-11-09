@@ -31,7 +31,7 @@
                             <br />
                             História</h2>
                         <hr />
-                        <p>Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam egestda. Sedquis viverra enim.</p>
+                        <%--<p>Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam egestda. Sedquis viverra enim.</p>--%>
 
                     </div>
                 </div>

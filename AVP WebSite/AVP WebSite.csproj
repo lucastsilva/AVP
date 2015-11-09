@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\logoavp.png" />
     <Content Include="packages.config" />
     <Content Include="AVP.Master" />
     <Content Include="fonts\font-awesome\fonts\fontawesome-webfontd41d.eot" />

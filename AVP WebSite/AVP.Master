@@ -64,16 +64,16 @@
                     <!-- Brand and toggle get grouped for better mobile display -->
                     <div class="col-sm-4 col-md-4">
                         <div class="navbar-header">
-                            <img src="img/avp_reduzido.png" />
+                            <a href="index.aspx"><img src="img/logoavp.png" /></a>
                         </div>
                     </div>
                     <div class="col-sm-8 col-md-8">
                         <ul class="top-links list-unstyled text-right">
                             <li class="top-contact">
                                 <ol class="list-inline">
-                                    <li><i class="fa fa-phone"></i> (11) 5016 - 4180</li>
-                                    <li><i class="fa fa-phone"></i> (11) 3892 - 7129</li>
-                                    <li><i class="fa fa-envelope-o"></i> sac@avp.eng.br</li>
+                                    <li><i class="fa fa-phone"></i>(11) 5016 - 4180</li>
+                                    <li><i class="fa fa-phone"></i>(11) 3892 - 7129</li>
+                                    <li><i class="fa fa-envelope-o"></i>sac@avp.eng.br</li>
                                 </ol>
                             </li>
                             <li>
@@ -189,7 +189,7 @@
             </div>
             <div class="bottom-footer">
                 <div class="container text-center">
-                    <p>Todos direitos reservados © 2015 | <a href="#">AVP - Consultoria e Engenharia</a></p>
+                    <p><a href="#">AVP - Consultoria e Engenharia | </a>Todos direitos reservados © 2015 | Desenvolvido por <a href="#">LTS</a></p>
                 </div>
             </div>
         </div>
@@ -206,6 +206,9 @@
         <!-- Portfolio Filter -->
         <script type="text/javascript" src="js/jquery.isotope.js"></script>
         <script type="text/javascript" src="js/imagesloaded.js"></script>
+        <!-- Contact page-->
+        <script type="text/javascript" src="js/jqBootstrapValidation.js"></script>
+        <script type="text/javascript" src="js/contact.js"></script>
 
         <!-- Javascripts
     ================================================== -->

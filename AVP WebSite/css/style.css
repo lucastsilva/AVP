@@ -162,8 +162,11 @@ a.logo.navbar-brand { color: #FFB642 }
     font-family: 'Raleway', sans-serif;
     margin-top: -50px;
 }
-ul.top-links li { padding: 5px 0 }
+ul.top-links li { 
+    padding: 5px 0;
+}
 .top-contact ol li {
+    padding-top: 50px;
     margin-left: 20px;
     font-weight: 900;
 }

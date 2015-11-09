@@ -31,13 +31,13 @@
                             <br />
                         </h2>
                         <hr />
-                        <p>Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam egestda. Sedquis viverra enim.</p>
+                        <%--<p>Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam egestda. Sedquis viverra enim.</p>--%>
 
                     </div>
                 </div>
                 <!-- Right Content 8 Cols -->
                 <div class="col-sm-8 col-md-8">
-                    <p class="lead">This is the lead paragraphy about the company history. Nulla interdum dapibus erat nec elementum. Fusce aliquet tempor mi, vitae sollicitudin arcu convallis id. In id vestibulum sapien. Praesent eget bibendum purus, quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc, nec bibendum erat volutpat ultricies.</p>
+                    <%--<p class="lead">This is the lead paragraphy about the company history. Nulla interdum dapibus erat nec elementum. Fusce aliquet tempor mi, vitae sollicitudin arcu convallis id. In id vestibulum sapien. Praesent eget bibendum purus, quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc, nec bibendum erat volutpat ultricies.</p>--%>
                     <h4>Serviços</h4>
                     <ul class="list-unstyled list-block">
                         <li><i class="fa fa-long-arrow-right"></i><span>Avaliação Patrimonial </span>- Imóveis urbanos e rurais.</li>

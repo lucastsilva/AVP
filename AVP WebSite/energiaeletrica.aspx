@@ -31,13 +31,13 @@
                             <br />
                         </h2>
                         <hr />
-                        <p>Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam egestda. Sedquis viverra enim.</p>
+                        <%--<p>Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam egestda. Sedquis viverra enim.</p>--%>
 
                     </div>
                 </div>
                 <!-- Right Content 8 Cols -->
                 <div class="col-sm-8 col-md-8">
-                    <p class="lead">This is the lead paragraphy about the company history. Nulla interdum dapibus erat nec elementum. Fusce aliquet tempor mi, vitae sollicitudin arcu convallis id. In id vestibulum sapien. Praesent eget bibendum purus, quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc, nec bibendum erat volutpat ultricies.</p>
+                    <%--<p class="lead">This is the lead paragraphy about the company history. Nulla interdum dapibus erat nec elementum. Fusce aliquet tempor mi, vitae sollicitudin arcu convallis id. In id vestibulum sapien. Praesent eget bibendum purus, quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc, nec bibendum erat volutpat ultricies.</p>--%>
                     <h4>Serviços</h4>
                     <ul class="list-unstyled list-block">
                         <li><i class="fa fa-long-arrow-right"></i><span>Consultoria   em assuntos  regulatórios   do setor  elétrico objetivando a elaboração de estudos,  projetos, proposições, relacionamento, representação, acompanhamento processual, e facilitador junto à ANEEL, MME, ONS e CCEE</span></li>
@@ -46,10 +46,10 @@
                     </ul>
                     <div class="clearfix"></div>
                     <br />
-                    <h4>Metodologia</h4>
+                    <%--<h4>Metodologia</h4>
                     <p>A <strong><em>AVP Consultoria e Engenharia</em></strong> only employs competent engineers to assure quality and best output for each projects. Fusce aliquet tempor mi, vitae sollicitudin arcu convallis id. In id vestibulum sapien. Praesent eget bibendum purus, quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc, nec bibendum erat volutpat ultricies. <strong><em><a href="team.html">Our team of engineers</a></em></strong> work hard together to provide each of our trusted partners and clients the best output that no other engineering companies can offer.</p>
                     <div class="clearfix"></div>
-                    <br />
+                    <br />--%>
 
                 </div>
             </div>
