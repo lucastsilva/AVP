@@ -18,38 +18,32 @@ namespace AVP_WebSite
 
         protected void btEnviar_Click(object sender, EventArgs e)
         {
+
             try
             {
-                EnviarEmail();
-            }
-            catch (Exception) { }
-        }
+                MailMessage mail = new MailMessage();
+                SmtpClient SmtpServer = new SmtpClient("smtp.avp.eng.br");
 
-        protected void EnviarEmail()
-        {
-            // Gmail Address from where you send the mail
-            var fromAddress = "flamenguistadf@gmail.com";
-            // any address where the email will be sending
-            var toAddress = Request.Form["email"];
-            //Password of your gmail address
-            const string fromPassword = "mengodf17";
-            // Passing the values and make a email formate to display
-            string subject = "cliente: " + Request.Form["name"];
-            string body = "From: " + Request.Form["name"] + "\n";
-            body += "Email: " + Request.Form["email"] + "\n";
-            body += "Question: \n" + Request.Form["message"] + "\n";
-            // smtp settings
-            var smtp = new System.Net.Mail.SmtpClient();
-            {
-                smtp.Host = "smtp.gmail.com";
-                smtp.Port = 587;
-                smtp.EnableSsl = true;
-                smtp.DeliveryMethod = System.Net.Mail.SmtpDeliveryMethod.Network;
-                smtp.Credentials = new NetworkCredential(fromAddress, fromPassword);
-                smtp.Timeout = 20000;
+                mail.From = new MailAddress("sac@avp.eng.br");
+                mail.To.Add("flamenguistadf@gmail.com");
+                mail.Subject = "Formulário de contato: " + Request.Form["nome"];
+                mail.Body = Request.Form["message"] + Request.Form["email"];
+
+                SmtpServer.Port = 587;
+                SmtpServer.Credentials = new System.Net.NetworkCredential("sac@avp.eng.br", "elife2008");
+                SmtpServer.EnableSsl = true;
+
+                SmtpServer.Send(mail);
+                this.txAlerta.InnerHtml = "O seu email foi enviado com sucesso!";
+                this.alerta.Visible = true;
+                this.alerta.Attributes.Add("class", "alert alert-dismissable alert-danger");
             }
-            // Passing values to smtp object
-            smtp.Send(fromAddress, toAddress, subject, body);
+            catch (SmtpFailedRecipientException ex)
+            {
+                this.txAlerta.InnerHtml = ex.FailedRecipient + "---" + ex.GetBaseException();
+                this.alerta.Visible = true;
+                this.alerta.Attributes.Add("class", "alert alert-dismissable alert-danger");
+            }
         }
     }
 }

@@ -114,7 +114,7 @@
                             </ul>
                         </li>
                         <li><a href="index.aspx#clientes">Clientes</a></li>
-                        <li><a href="sobre.aspx">Sobre Nós</a></li>
+                        <li><a href="construcao.aspx">Sobre Nós</a></li>
                         <li><a href="contato.aspx">Contato</a></li>
                     </ul>
                 </div>
@@ -171,7 +171,7 @@
                         <div class="col-sm-3 col-md-3">
                             <div class="widget">
                                 <div class="widget-title text-left">
-                                    <h4>Links</h4>
+                                    <h4>Links úteis</h4>
                                     <hr />
                                 </div>
                                 <ul class="list-unstyled list-block">
@@ -208,7 +208,6 @@
         <script type="text/javascript" src="js/imagesloaded.js"></script>
         <!-- Contact page-->
         <script type="text/javascript" src="js/jqBootstrapValidation.js"></script>
-        <script type="text/javascript" src="js/contact.js"></script>
 
         <!-- Javascripts
     ================================================== -->

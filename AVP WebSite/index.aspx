@@ -110,7 +110,7 @@
                         <a href="avaliacoes.aspx">
                             <h4>Avaliações</h4>
                         </a>
-                        <p>Fusce laoreet ultricies sapien sed efficitur orci venenatis lotem ne ut Maecenas tortor magna quea velit inringilla sed. Praesent eget bibendum purus, quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc, nec bibendum erat volutpat ultricies</p>
+                        <p>Realizamos diversos tipos de avaliações e laudos para sua obra.</p>
                         <a class="read-more" href="avaliacoes.aspx">Leia Mais <span class="fa fa-chevron-circle-right"></span></a>
                     </div>
                 </div>
@@ -124,7 +124,7 @@
                         <a href="pericias.aspx">
                             <h4>Perícias</h4>
                         </a>
-                        <p>Nulla interdum dapibus erat nec elementum. Fusce aliquet tempor mi, vitae sollicitudin arcu convallis id. Vivamus aliquet rutrum dui a varius. Mauris ornare tortor in eleifend blanditullam ut ligula et neque.</p>
+                        <p>Vistoria cautelar, em condomínios, em edificações, entre outros serviços.</p>
                         <a class="read-more" href="pericias.aspx">Leia Mais <span class="fa fa-chevron-circle-right"></span></a>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
                         <a href="energiaeletrica.aspx">
                             <h4>Energia Elétrica</h4>
                         </a>
-                        <p>Vivamus aliquet rutrum dui a varius. Mauris ornare tortor in eleifend blanditullam ut ligula et neque. Quisque porttitor sem libero auctor lorem fringilla sit amehasellus gravida nisi elitam egestda. Sedquis viverra enim. </p>
+                        <p>Consultoria e assessoria em projetos e assuntos regulatórios de energia elétrica.</p>
                         <a class="read-more" href="energiaeletrica.aspx">Leia Mais <span class="fa fa-chevron-circle-right"></span></a>
                     </div>
                 </div>

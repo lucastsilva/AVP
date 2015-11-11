@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="construcao.aspx" />
     <Content Include="img\logoavp.png" />
     <Content Include="packages.config" />
     <Content Include="AVP.Master" />
@@ -218,6 +219,13 @@
     </Compile>
     <Compile Include="AVP.Master.designer.cs">
       <DependentUpon>AVP.Master</DependentUpon>
+    </Compile>
+    <Compile Include="construcao.aspx.cs">
+      <DependentUpon>construcao.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="construcao.aspx.designer.cs">
+      <DependentUpon>construcao.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="index.aspx.cs">

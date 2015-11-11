@@ -22,6 +22,24 @@ namespace AVP_WebSite {
         protected global::System.Web.UI.HtmlControls.HtmlForm contactform;
         
         /// <summary>
+        /// alerta control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl alerta;
+        
+        /// <summary>
+        /// txAlerta control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl txAlerta;
+        
+        /// <summary>
         /// btEnviar control.
         /// </summary>
         /// <remarks>
