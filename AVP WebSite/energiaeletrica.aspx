@@ -46,6 +46,15 @@
                     </ul>
                     <div class="clearfix"></div>
                     <br />
+
+                    <div class="row">
+                        <div class="col-sm-9 col-md-12">
+                            <div class="post-img thumbnail">
+                                <img src="img/servicos/images.jpg" alt="..." width="60%"/>
+                            </div>
+                        </div>
+                    </div>
+
                     <%--<h4>Metodologia</h4>
                     <p>A <strong><em>AVP Consultoria e Engenharia</em></strong> only employs competent engineers to assure quality and best output for each projects. Fusce aliquet tempor mi, vitae sollicitudin arcu convallis id. In id vestibulum sapien. Praesent eget bibendum purus, quis placerat dui. Duis lacinia nisi sit ansequat lorem nunc, nec bibendum erat volutpat ultricies. <strong><em><a href="team.html">Our team of engineers</a></em></strong> work hard together to provide each of our trusted partners and clients the best output that no other engineering companies can offer.</p>
                     <div class="clearfix"></div>

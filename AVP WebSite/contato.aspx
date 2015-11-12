@@ -52,11 +52,12 @@
                         </div>
                         <textarea class="form-control" rows="6" placeholder="Sua mensagem... *" id="message" required="required" data-validation-required-message="Please enter a message."></textarea>
 
-                        <div runat="server" id="alerta" visible="false" class="alert alert-dismissable">
+                        <asp:Label ID="lbMsg" runat="server"></asp:Label>
+                        <%--<div runat="server" id="alerta" visible="false" class="alert alert-dismissable">
                             <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
                             <h4>Alerta!</h4>
                             <strong runat="server" id="txAlerta">Dados Incompletos!</strong>
-                        </div>
+                        </div>--%>
 
                         <asp:Button ID="btEnviar" runat="server" Text="Enviar Mensagem" OnClick="btEnviar_Click" />
                         <!-- Send button -->

@@ -24,7 +24,7 @@
                         <br />
                         AVP </h1>
                     <p class="lead">Consultoria e Engenharia</p>
-                    <a class="btn btn-default en-btn" href="sobre.aspx" role="button">Saiba Mais</a>
+                    <a class="btn btn-default en-btn" href="construcao.aspx" role="button">Saiba Mais</a>
                 </div>
             </div>
             <div class="item">
@@ -133,7 +133,7 @@
                     <div class="service">
                         <!-- Service #3 -->
                         <a href="energiaeletrica.aspx">
-                            <img src="img/services/03.jpg" alt="" class="img-responsive" />
+                            <img src="img/servicos/eolicas.jpg" alt="" class="img-responsive" />
                         </a>
                         <a href="energiaeletrica.aspx">
                             <h4>Energia Elétrica</h4>
